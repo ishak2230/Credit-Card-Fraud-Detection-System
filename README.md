@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using SVM
 
-This project detects fraudulent credit card transactions using Support Vector Machines (SVM) in R. The dataset is highly imbalanced, with only 0.17% fraud cases. The model focuses on identifying subtle fraud patterns, such as one-dollar scams, while minimizing false positives.
+This project detects fraudulent credit card transactions using Support Vector Machines (SVM) in R. The model focuses on identifying subtle fraud patterns, such as one-dollar scams, while minimizing false positives.
 
 ## Overview
 
